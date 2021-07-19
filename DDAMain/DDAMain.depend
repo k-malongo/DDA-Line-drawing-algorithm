@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1623172183 source:c:\users\geni\documents\opengl\ddamain\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	<cmath>
+	<ctgmath>
+
+1623172432 source:c:\users\geni\onedrive\documents\opengl\ddamain\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	<cmath>
+	<ctgmath>
+
